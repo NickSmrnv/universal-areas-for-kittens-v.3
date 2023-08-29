@@ -1,0 +1,18 @@
+$grid_breakpoints: (
+   xl: 1439px,
+   lg: 1023px,
+   md: 767px,
+   sm: 575px,
+);
+
+:root {
+   --text: rgb(102, 102, 102);
+   --iconography: rgb(118, 118, 118);
+   --interface: rgb(215, 215, 215);
+   --interface-Dark: rgb(51, 51, 51);
+   --brand-1: rgb(226, 0, 26);
+   --brand-1-hover: #ffeaea;
+   --brand-2: rgb(128, 130, 133);
+   --brand-3: rgb(255, 255, 255);
+   --brand-4: rgb(246, 246, 246);
+}
